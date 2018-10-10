@@ -1,4 +1,4 @@
-## 基于[YYModel](https://github.com/ibireme/YYModel)Model封装
+## 基于[YYModel](https://github.com/ibireme/YYModel)的model封装
 ### 安装
 #### 1.CocoaPod安装
 
